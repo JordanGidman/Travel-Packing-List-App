@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Running the application on your machine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I am using create-react-app purely with learning projects and i am aware that i will need to use something like Vite for actual projects and i will be delving into that soon.
+
+By far the easist way to run this project is to simply donwload the code and open it in Visual Studio Code. Then open the VS code terminal and type "npm i" and press enter, once done type "npm start" and press enter and it will open in a new tab in your default browser. If you would just like screenshots instead please feel free to reach out.
 
 ## Available Scripts
 
